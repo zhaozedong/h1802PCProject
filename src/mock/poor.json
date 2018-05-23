@@ -1,0 +1,23 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"list" : [
+			{"id":1,"img":"imgs/poor1.jpg","desc":"(健康的零食]陈氏金福元","price1":"￥46.80","price2":"￥89.00"},
+			{"id":2,"img":"imgs/poor2.jpg","desc":"[锦好枣园1新疆和田骏枣3","price1":"￥39.80","price2":"￥58.69"},
+			{"id":3,"img":"imgs/poor3.jpg","desc":"[100%茶油制作神农春东江","price1":"￥37.90","price2":"￥69.88"},
+			{"id":4,"img":"imgs/poor4.jpg","desc":"[榜爷]湖南湘西腊味地道","price1":"￥45.80","price2":"￥55.09"},
+			{"id":5,"img":"imgs/poor5.jpg","desc":"[新晃黄牛肉]正宗嘉信于撕","price1":"￥25.80","price2":"￥42.88"},
+			{"id":6,"img":"imgs/poor6.jpg","desc":"榜爷原味香肠湖南湘西土特","price1":"￥26.50","price2":"￥38.00"},
+			{"id":7,"img":"imgs/poor7.jpg","desc":"[山山食品]安化特产野生","price1":"￥228.00","price2":"￥258.00"},
+			{"id":8,"img":"imgs/poor8.jpg","desc":"[山山食品]安化特产新鲜算","price1":"￥46.80","price2":"￥89.00"},
+			{"id":9,"img":"imgs/poor9.jpg","desc":"炎陵客家美食艾叶米果","price1":"￥52.00","price2":"￥56.60"},
+			{"id":10,"img":"imgs/poor10.jpg","desc":"[榜爷]五花腊肉400g/袋装","price1":"￥46.80","price2":"￥89.00"},
+			{"id":11,"img":"imgs/poor11.jpg","desc":"[榜爷]后腿腊肉精装500g/","price1":"￥46.80","price2":"￥89.00"},
+			{"id":12,"img":"imgs/poor12.jpg","desc":"榜爷后眼腊肉湖南湘西农家特","price1":"￥46.80","price2":"￥89.00"},
+			{"id":13,"img":"imgs/poor13.jpg","desc":"龙山喜乐300g百合干片全国","price1":"￥46.80","price2":"￥89.00"}
+			
+			
+		]
+	}
+}

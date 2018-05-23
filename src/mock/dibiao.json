@@ -1,0 +1,14 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"list" : [
+			{"id":20,"img":"imgs/gua.jpg","desc":"【搜农坊新鲜货】可可美仁原味瓜子","price1":"￥46.80","price2":"￥89.00"},
+			{"id":21,"img":"imgs/jidan.jpg","desc":"【美人窝里的土鸡蛋】","price1":"￥39.80","price2":"￥58.69"},
+			{"id":22,"img":"imgs/poor3.jpg","desc":"【神农春东江鱼】","price1":"￥228.0","price2":"￥288.0"},
+			{"id":23,"img":"imgs/xiang.jpg","desc":"榜爷原味香肠250g湘西","price1":"￥148.0","price2":"￥188.0"},
+			{"id":24,"img":"imgs/zhu.jpg","desc":"榜爷地道腊猪嘴500g","price1":"￥218.0","price2":"￥268.0"},
+			{"id":25,"img":"imgs/niu.jpg","desc":"榜爷麻辣香肠300g","price1":"￥148.0","price2":"￥168.0"}		
+		]
+	}
+}

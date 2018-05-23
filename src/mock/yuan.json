@@ -1,0 +1,14 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"list" : [
+			{"id":14,"img":"imgs/huo.jpg","desc":"【礼盒自选量版区】红心火龙果4个装","price1":"￥46.80","price2":"￥89.00"},
+			{"id":15,"img":"imgs/ji.png","desc":"农心匠品手工秘制凤爪248g","price1":"￥39.80","price2":"￥58.69"},
+			{"id":16,"img":"imgs/yi.jpg","desc":"烟台打樱桃5斤装","price1":"￥228.0","price2":"￥288.0"},
+			{"id":17,"img":"imgs/yi1.jpg","desc":"烟台打樱桃3斤装","price1":"￥148.0","price2":"￥188.0"},
+			{"id":18,"img":"imgs/yi2.jpg","desc":"烟台黑珍珠大樱桃5斤装","price1":"￥218.0","price2":"￥268.0"},
+			{"id":19,"img":"imgs/yi3.jpg","desc":"烟台黑珍珠大樱桃3斤装","price1":"￥148.0","price2":"￥168.0"}		
+		]
+	}
+}

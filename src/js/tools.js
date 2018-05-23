@@ -142,7 +142,7 @@ function off(element,type,callback){
 
 }
 // 寻找类名函数封装解决兼容性问题
-function $(selector,context){
+function my$(selector,context){
 	// 默认在全文档里查找
 	context=context||document;
 	if(selector.charAt(0)=="#")

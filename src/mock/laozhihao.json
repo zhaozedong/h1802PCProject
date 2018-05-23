@@ -1,0 +1,14 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"list" : [
+			{"id":26,"img":"imgs/jianbing.jpg","desc":"【健康的零食】宜昌鸡蛋煎饼500g","price1":"￥46.80","price2":"￥89.00"},
+			{"id":27,"img":"imgs/jiao.jpg","desc":"唐妈妈毛家食品贡菜脆椒428g","price1":"￥39.80","price2":"￥58.69"},
+			{"id":28,"img":"imgs/gao.png","desc":"【百年老字号】绿豆糕500g","price1":"￥228.0","price2":"￥288.0"},
+			{"id":29,"img":"imgs/huang.png","desc":"搜农坊蛋黄酥380g特惠","price1":"￥48.0","price2":"￥88.0"},
+			{"id":30,"img":"imgs/lanhua.jpg","desc":"陈氏金福元1000g兰花串","price1":"￥218.0","price2":"￥268.0"},
+			{"id":31,"img":"imgs/lanhou.jpg","desc":"【新晃黄牛肉】麻辣味800g","price1":"￥148.0","price2":"￥168.0"}		
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"res_code":1,
+	"res_msg":"success",
+	"res_body":{
+		"list" : [
+			{"id":32,"img":"imgs/rou1.jpg","desc":"【礼行天下】经典肉粽","price1":"￥46.80","price2":"￥89.00"},
+			{"id":33,"img":"imgs/rou2.jpg","desc":"【义行天下鲜肉粽】","price1":"￥39.80","price2":"￥58.69"},
+			{"id":34,"img":"imgs/rou3.jpg","desc":"【五谷礼盒糯米小米】","price1":"￥228.0","price2":"￥288.0"},
+			{"id":35,"img":"imgs/rou4.jpg","desc":"五芳斋大肉粽","price1":"￥148.0","price2":"￥188.0"},
+			{"id":36,"img":"imgs/rou5.jpg","desc":"蛋黄鲜肉粽*绿茶枣香粽","price1":"￥218.0","price2":"￥268.0"},
+			{"id":37,"img":"imgs/rou6.jpg","desc":"真真老老蛋黄肉粽","price1":"￥148.0","price2":"￥168.0"}		
+		]
+	}
+}
